@@ -25,5 +25,15 @@ public class ContactTest
 	    {
 			System.out.println("execute modifyContactTest");
 		}
+<<<<<<< HEAD
 	//
+=======
+	
+	@Test
+	public void deleteContactTest()
+    {
+		System.out.println("execute deleteContactTest");
+	}
+
+>>>>>>> branch 'master' of https://github.com/Ranjini20253/Sample_Fork_Framework.git
 }

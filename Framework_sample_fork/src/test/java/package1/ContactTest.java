@@ -18,7 +18,7 @@ public class ContactTest
 		System.out.println(USERNAME);
 		System.out.println(PASSWORD);
 	}
-	//
+	
 
 	@Test
 		public void modifyContactTest()
